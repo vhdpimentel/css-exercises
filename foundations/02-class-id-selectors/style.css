@@ -1,9 +1,18 @@
 .odd-number-element {
-    background-color: hsl(360, 100%, 80%);
+    background-color: hsl(360, 80%, 80%);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-#bigboldblue {
-    color: hsl(240, 100%, 50%);
+#big-blue {
+    color: rgb(0, 0, 255);
     font-size: 36px;
+}
+
+.larger-font {
+    font-size: 24px;
+}
+
+#bold-black-on-green {
+    background-color: hsl(120, 53%, 71%);
+    font-weight: bold;
 }
