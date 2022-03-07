@@ -4,11 +4,11 @@
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
 
-.yellow-button {
-    color: hsl(0,0,100%);
+.black-button {
+    color:hsl(0,0%,100%);
     background-color: black;
 }
 
-.black-button {
+.yellow-button {
     background-color: rgb(255,255,0);
 }
