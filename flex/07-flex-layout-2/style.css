@@ -4,19 +4,22 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .header {
-  height: 72px;
+  font-weight: 900;
+  font-size: 32px;
+  height: auto;
   background: darkmagenta;
   color: white;
   display: flex;
   align-items: center;
+  padding: 16px;
 }
 
 .content {
   display: flex;
+  flex:1;
 }
 
 .footer {
@@ -29,7 +32,7 @@ body {
 }
 
 .sidebar {
-  width: auto;
+  width: 300px;
   background: royalblue;
   flex: 0 0 auto;
 }
